@@ -1,4 +1,4 @@
-# IMDb Movie Reviews Sentiment Analysis
+# Movie Reviews Sentiment Analysis
 This project focuses on sentiment analysis of IMDb movie reviews using various deep learning models. The steps involved include data preprocessing, building an embedding matrix using GloVe, and training models using Keras. Below is a detailed breakdown of each step.
 
 ## Table of Contents
